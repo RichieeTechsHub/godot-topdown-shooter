@@ -1,0 +1,7 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1772027673
+icon.svg::CompressedTexture2D::382214671474063810::1772025737::1772025751::1::::<><><>0<>0<>85b24b4c228b30cb30a95788c05471af<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://scenes/::1772027656
+Player.tscn::PackedScene::8610066898458313266::1772027656::0::1::::<><><>0<>0<><>::uid://dyml6dy10ngfs::::res://scripts/Player.gd<>uid://fpfaw5dlious::::res://icon.svg
+::res://scripts/::1772027158
+Player.gd::GDScript::8869290273832884492::1772027158::0::1::::<>CharacterBody2D<><>0<>0<><>::
